@@ -4,18 +4,12 @@
 
     height: calc(100vh – 110px);
     
-    background: url(../images/index/bg_main.jpg);
-    
+    background-image: url(../images/index/bg_main.jpg);
     background-repeat: no-repeat;
-    
     background-position: center center;
-    
     background-size: cover;
-    
     display: flex;
-    
     align-items: center;
-    
     }
 *,
 ::before,
