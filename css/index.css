@@ -87,7 +87,7 @@ img {
 
 .header-logo {
     display: block;
-    width: 150px;
+    width: 170px;
 }
 
 .site-menu ul {
@@ -95,8 +95,8 @@ img {
 }
 
 .site-menu ul li {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .site-menu ul li a {
