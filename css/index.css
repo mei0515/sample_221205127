@@ -1,5 +1,23 @@
 @charset "utf-8";
 
+.first-view {
+
+    height: calc(100vh – 110px);
+    
+    background: url(../images/index/bg-main.jpg);
+    
+    background-repeat: no-repeat;
+    
+    background-position: center center;
+    
+    background-size: cover;
+    
+    display: flex;
+    
+    align-items: center;
+    
+    }
+
 *,
 ::before,
 ::after {
