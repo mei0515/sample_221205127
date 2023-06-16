@@ -9,9 +9,7 @@ window.addEventListener('load', function () {
         else {
             $menu.classList.add('is-show');
         }
-    
     });
-    
 });
 
 $(function () {
