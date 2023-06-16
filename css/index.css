@@ -25,7 +25,7 @@ nav.floating {
     margin-left: auto;
     margin-right: auto;
     padding-left: 40px;
-    padding-bottom: 200px;
+    padding-bottom: auto;
     color: #ffffff;
     font-weight: bold;
     text-shadow: 1px 1px 10px #4b2c14;
