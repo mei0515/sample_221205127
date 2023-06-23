@@ -20,3 +20,22 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.member-list {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.member-list li {
+    flex-shrink: 0;
+    width: 260px;
+    margin-left: 75px;
+    overflow: scroll;
+}
+
+.member-list li:first-child {
+    margin-left: 0;
+}
